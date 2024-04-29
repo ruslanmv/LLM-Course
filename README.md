@@ -1,4 +1,4 @@
-# GenAI-LLM-DeepDive 
+# LLM-Course
 ## Understanding and Leveraging Generative AI in Large Language Models
 
 Welcome to this repository of tutorials covering various aspects of Large Language Models (LLMs). These tutorials are designed to provide a deep understanding of LLMs, their underlying concepts, and how to leverage them for various tasks. Whether you're a beginner or an expert in natural language processing, these tutorials will help you gain a better grasp of LLMs and their applications.
